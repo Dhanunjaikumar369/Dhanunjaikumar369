@@ -23,6 +23,4 @@ Azure ML · Snowflake · Docker · MLflow · LangSmith · Ragas · Pinecone
 ## Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dhanunjai--kumar-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/dhanunjai-kumar)
 [![Email](https://img.shields.io/badge/Email-dhanunjai.kumar.ai%40gmail.com-EA4335?style=flat&logo=gmail)](mailto:dhanunjai.kumar.ai@gmail.com)
-What to add as LinkedIn Featured link
-URL to pin:
-https://github.com/Dhanunjaikumar369
+
