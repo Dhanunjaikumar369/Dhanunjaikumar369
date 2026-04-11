@@ -1,7 +1,7 @@
 # Dhanunjai Kumar — Lead Data Scientist & AI Engineer
 
 🔹 Building production AI systems across supply chain, pharma & automotive
-🔹 8 years · Hyderabad, India · Open to: Netherlands · Germany · Switzerland
+🔹 8 years · Hyderabad, India · 
 
 ## What I build
 
